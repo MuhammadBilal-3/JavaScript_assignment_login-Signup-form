@@ -111,3 +111,9 @@ button:hover {
 .login {
     transition: all 0.6s ease;
 }
+
+.signupDiv,
+.loginDiv {
+    color:blue; cursor:pointer;
+}
+ 
